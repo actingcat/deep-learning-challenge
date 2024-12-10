@@ -1,5 +1,5 @@
 # deep-learning-challenge
-* For this challenge, we were tasking with using TensorFlow to analyze data from the nonprofit organization, Alphabet Soup. The goal of the TensorFlow model is to help the company determine the funding applicants have the highest chances of success. First, we processed the data using sklearn, dropped two columns, and organized the other columns. Then we scaled the training and testing features using the StandardScaler and transform function.
+* For this challenge, we were tasking with using TensorFlow to analyze data from the nonprofit organization, Alphabet Soup. The goal of the TensorFlow model is to help the company determine the funding applicants have the highest chances of success. First, we processed the data using sklearn, dropped two columns, and organized the other columns. Then we scaled the training and testing features using the StandardScaler and transform function. The target was set to the 'Is Successful' column, to try and determine the success or failure of the funding applicants. 
 
 * After that, we used Google Colab to evaluate the model and run TensorFlow. This included creating a neural network model, adding hidden layers and outer layers to the function, compiling and training the model, then evaluating the model for loss and accuracy.
 
